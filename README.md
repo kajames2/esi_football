@@ -1,9 +1,3 @@
 # esi_football
 
-# hello
-# Added another line to REAMDE.md
-# Hi Michael
-
-An extra line of text.
-And another.
-And even another.
+Project for projecting daily and season-long fantasy football.
