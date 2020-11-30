@@ -1,0 +1,33 @@
+Player,Team,Sack,Int,Fum Rec,Fum Forced,TDs,Safety,PA,Yds Against,FPoints
+Arizona Cardinals,Cardinals,41.4,12.6,9.9,,2.5,0.6,378.5,,105.0
+Jacksonville Jaguars,Jaguars,40.3,12.7,10.4,,2.4,0.6,388.9,,104.2
+Tennessee Titans,Titans,36.9,14.6,10.2,,2.4,0.5,324.5,,104.4
+Detroit Lions,Lions,37.3,12.0,10.0,,2.3,0.5,372.7,,99.8
+New England Patriots,Patriots,36.6,16.5,11.0,,2.4,0.5,287.1,,110.3
+Dallas Cowboys,Cowboys,37.9,14.9,10.2,,2.4,0.6,326.9,,106.7
+Las Vegas Raiders,Raiders,38.8,12.6,10.4,,2.4,0.6,382.1,,102.5
+Tampa Bay Buccaneers,Buccaneers,37.9,14.2,10.7,,2.4,0.7,355.2,,106.9
+Los Angeles Rams,Rams,39.7,14.2,10.8,,2.4,0.5,336.7,,107.9
+Chicago Bears,Bears,39.0,14.0,10.6,,2.4,0.5,345.6,,109.4
+Buffalo Bills,Bills,38.4,14.7,10.5,,2.5,0.6,329.6,,107.5
+Carolina Panthers,Panthers,34.3,12.5,10.1,,2.3,0.5,393.8,,96.8
+Atlanta Falcons,Falcons,33.6,13.8,9.4,,2.4,0.6,364.3,,98.1
+Cleveland Browns,Browns,41.2,13.8,10.1,,2.2,0.6,368.1,,105.7
+Washington Football Team,Team,37.8,12.4,10.1,,2.3,0.5,407.3,,100.2
+Los Angeles Chargers,Chargers,36.9,13.4,9.4,,2.8,0.6,342.3,,103.6
+Baltimore Ravens,Ravens,39.5,16.1,10.2,,2.4,0.6,287.1,,111.6
+Minnesota Vikings,Vikings,40.1,15.1,9.1,,2.4,0.6,331.2,,107.2
+Indianapolis Colts,Colts,40.1,14.5,10.2,,2.4,0.6,353.1,,108.8
+New York Jets,Jets,36.9,13.1,11.0,,2.4,0.9,362.9,,103.4
+Kansas City Chiefs,Chiefs,39.8,15.5,10.3,,2.4,0.6,325.0,,111.0
+Miami Dolphins,Dolphins,37.9,12.1,7.3,,2.3,0.5,389.8,,94.7
+Seattle Seahawks,Seahawks,36.7,13.3,10.8,,2.4,0.6,366.3,,103.2
+Denver Broncos,Broncos,37.5,13.5,10.4,,2.5,0.6,357.8,,104.7
+Cincinnati Bengals,Bengals,38.6,13.4,9.7,,2.3,0.6,383.2,,102.7
+New York Giants,Giants,38.3,12.3,11.1,,2.4,0.5,386.2,,103.0
+Green Bay Packers,Packers,38.3,17.8,10.3,,2.4,0.5,348.1,,113.0
+New Orleans Saints,Saints,38.5,14.2,10.9,,2.4,0.5,333.8,,109.1
+Houston Texans,Texans,35.9,13.7,10.3,,2.4,0.5,371.3,,101.5
+Philadelphia Eagles,Eagles,38.5,14.1,11.5,,2.5,0.6,343.6,,108.4
+Pittsburgh Steelers,Steelers,45.1,15.8,10.6,,2.4,0.7,322.8,,116.9
+San Francisco 49ers,49ers,40.3,15.9,10.3,,2.4,0.6,307.0,,111.4
