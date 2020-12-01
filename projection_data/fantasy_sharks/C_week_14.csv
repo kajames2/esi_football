@@ -1,0 +1,26 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Carroll, Pete",SEA,NYJ,HC,1.0,0.0,35.0,18.0,26.9
+2,"McVay, Sean",LAR,NEP,HC,1.0,0.0,35.0,17.0,26.6
+3,"Tomlin, Mike",PIT,@BUF,HC,1.0,0.0,35.0,14.0,25.7
+4,"Taylor, Zac",CIN,DAL,HC,1.0,0.0,35.0,13.0,25.4
+5,"Harbaugh, John",BAL,@CLE,HC,1.0,0.0,35.0,13.0,25.4
+6,"Shanahan, Kyle",SFO,WAS,HC,1.0,0.0,35.0,12.0,25.1
+7,"Reid, Andy",KCC,@MIA,HC,1.0,0.0,33.0,6.0,22.3
+8,"Kingsbury, Kliff",ARI,@NYG,HC,1.0,0.0,30.0,4.0,20.2
+9,"Nagy, Matt",CHI,HOU,HC,1.0,0.0,28.0,7.0,20.1
+10,"Reich, Frank",IND,@LVR,HC,1.0,0.0,28.0,4.0,19.2
+11,"Payton, Sean",NOS,@PHI,HC,1.0,0.0,29.0,2.0,19.1
+12,"Vrabel, Mike",TEN,@JAC,HC,1.0,0.0,29.0,2.0,19.1
+13,"Zimmer, Mike",MIN,@TBB,HC,1.0,0.0,25.0,4.0,17.7
+14,"LaFleur, Matt",GBP,@DET,HC,1.0,0.0,24.0,2.0,16.6
+15,"Arians, Bruce",TBB,MIN,HC,1.0,0.0,24.0,2.0,16.6
+16,"Lynn, Anthony",LAC,ATL,HC,1.0,0.0,24.0,1.0,16.3
+17,"Belichick, Bill",NEP,@LAR,HC,0.0,1.0,33.0,-1.0,16.2
+18,"Fangio, Vic",DEN,@CAR,HC,1.0,0.0,23.0,2.0,16.1
+19,"McDermott, Sean",BUF,PIT,HC,0.0,1.0,24.0,-1.0,11.7
+20,"Pederson, Doug",PHI,NOS,HC,0.0,1.0,26.0,-7.0,10.9
+21,"Gase, Adam",NYJ,@SEA,HC,0.0,1.0,25.0,-6.0,10.7
+22,"Marrone, Doug",JAC,TEN,HC,0.0,1.0,22.0,-2.0,10.4
+23,"Flores, Brian",MIA,KCC,HC,0.0,1.0,25.0,-10.0,9.5
+24,"Gruden, Jon",LVR,IND,HC,0.0,1.0,21.0,-4.0,9.3
+

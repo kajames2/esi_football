@@ -1,0 +1,26 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Belichick, Bill",NEP,BUF,HC,1.0,0.0,35.0,12.0,25.1
+2,"Lynn, Anthony",LAC,DEN,HC,1.0,0.0,33.0,15.0,25.0
+3,"Carroll, Pete",SEA,LAR,HC,1.0,0.0,33.0,14.0,24.7
+4,"McVay, Sean",LAR,@SEA,HC,1.0,0.0,31.0,16.0,24.3
+5,"Shanahan, Kyle",SFO,@ARI,HC,1.0,0.0,33.0,8.0,22.9
+6,"Nagy, Matt",CHI,@JAC,HC,1.0,0.0,31.0,10.0,22.5
+7,"Taylor, Zac",CIN,@HOU,HC,1.0,0.0,32.0,8.0,22.4
+8,"Reich, Frank",IND,@PIT,HC,1.0,0.0,30.0,6.0,20.8
+9,"Gase, Adam",NYJ,CLE,HC,1.0,0.0,28.0,3.0,18.9
+10,"Gruden, Jon",LVR,MIA,HC,1.0,0.0,26.0,5.0,18.5
+11,"Flores, Brian",MIA,@LVR,HC,1.0,0.0,27.0,3.0,18.4
+12,"Vrabel, Mike",TEN,@GBP,HC,1.0,0.0,27.0,2.0,18.1
+13,"Tomlin, Mike",PIT,IND,HC,1.0,0.0,26.0,3.0,17.9
+14,"Kingsbury, Kliff",ARI,SFO,HC,1.0,0.0,24.0,2.0,16.6
+15,"Fangio, Vic",DEN,@LAC,HC,1.0,0.0,22.0,5.0,16.5
+16,"LaFleur, Matt",GBP,TEN,HC,1.0,0.0,24.0,1.0,16.3
+17,"Marrone, Doug",JAC,CHI,HC,1.0,0.0,24.0,1.0,16.3
+18,"Reid, Andy",KCC,ATL,HC,0.0,1.0,27.0,-6.0,11.7
+19,"Zimmer, Mike",MIN,@NOS,HC,0.0,1.0,22.0,-2.0,10.4
+20,"Payton, Sean",NOS,MIN,HC,0.0,1.0,26.0,-9.0,10.3
+21,"Pederson, Doug",PHI,@DAL,HC,0.0,1.0,23.0,-7.0,9.4
+22,"Arians, Bruce",TBB,@DET,HC,0.0,1.0,23.0,-8.0,9.1
+23,"McDermott, Sean",BUF,@NEP,HC,0.0,1.0,20.0,-4.0,8.8
+24,"Harbaugh, John",BAL,NYG,HC,0.0,1.0,23.0,-11.0,8.2
+

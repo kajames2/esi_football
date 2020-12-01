@@ -1,0 +1,26 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Nagy, Matt",CHI,@GBP,HC,1.0,0.0,34.0,20.0,27.0
+2,"Reid, Andy",KCC,@TBB,HC,1.0,0.0,35.0,14.0,25.7
+3,"Zimmer, Mike",MIN,CAR,HC,1.0,0.0,32.0,18.0,25.4
+4,"McVay, Sean",LAR,SFO,HC,1.0,0.0,35.0,12.0,25.1
+5,"Tomlin, Mike",PIT,BAL,HC,1.0,0.0,35.0,12.0,25.1
+6,"Carroll, Pete",SEA,@PHI,HC,1.0,0.0,35.0,12.0,25.1
+7,"Harbaugh, John",BAL,@PIT,HC,1.0,0.0,35.0,11.0,24.8
+8,"LaFleur, Matt",GBP,CHI,HC,1.0,0.0,31.0,16.0,24.3
+9,"Lynn, Anthony",LAC,@BUF,HC,1.0,0.0,31.0,16.0,24.3
+10,"Taylor, Zac",CIN,NYG,HC,1.0,0.0,35.0,9.0,24.2
+11,"Shanahan, Kyle",SFO,@LAR,HC,1.0,0.0,35.0,8.0,23.9
+12,"Payton, Sean",NOS,@DEN,HC,1.0,0.0,33.0,9.0,23.2
+13,"Fangio, Vic",DEN,NOS,HC,1.0,0.0,29.0,15.0,23.0
+14,"Vrabel, Mike",TEN,@IND,HC,1.0,0.0,33.0,8.0,22.9
+15,"Reich, Frank",IND,TEN,HC,1.0,0.0,31.0,9.0,22.2
+16,"Kingsbury, Kliff",ARI,@NEP,HC,1.0,0.0,31.0,7.0,21.6
+17,"Gruden, Jon",LVR,@ATL,HC,1.0,0.0,27.0,10.0,20.5
+18,"Arians, Bruce",TBB,KCC,HC,1.0,0.0,27.0,6.0,19.3
+19,"McDermott, Sean",BUF,LAC,HC,1.0,0.0,24.0,1.0,16.3
+20,"Belichick, Bill",NEP,ARI,HC,0.0,1.0,31.0,-1.0,15.2
+21,"Pederson, Doug",PHI,SEA,HC,0.0,1.0,25.0,-9.0,9.8
+22,"Marrone, Doug",JAC,CLE,HC,0.0,1.0,20.0,-2.0,9.4
+23,"Gase, Adam",NYJ,MIA,HC,0.0,1.0,21.0,-8.0,8.1
+24,"Flores, Brian",MIA,@NYJ,HC,0.0,1.0,22.0,-13.0,7.1
+

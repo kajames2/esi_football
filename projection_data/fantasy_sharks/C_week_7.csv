@@ -1,0 +1,27 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Harbaugh, John",BAL,Bye,HC,1.0,0.0,33.0,10.0,23.5
+2,"Tomlin, Mike",PIT,@TEN,HC,1.0,0.0,29.0,8.0,20.9
+3,"Zimmer, Mike",MIN,Bye,HC,1.0,0.0,27.0,4.0,18.7
+4,"Patricia, Matt",FA,Bye,HC,1.0,0.0,26.0,1.0,17.3
+5,"Belichick, Bill",NEP,SFO,HC,1.0,0.0,26.0,1.0,17.3
+6,"Shanahan, Kyle",SFO,@NEP,HC,1.0,0.0,24.0,1.0,16.3
+7,"Payton, Sean",NOS,CAR,HC,1.0,0.0,24.0,1.0,16.3
+8,"Reid, Andy",KCC,@DEN,HC,0.0,1.0,26.0,-1.0,12.7
+9,"LaFleur, Matt",GBP,@HOU,HC,0.0,1.0,25.0,-2.0,11.9
+10,"Taylor, Zac",CIN,CLE,HC,0.0,1.0,24.0,-1.0,11.7
+11,"Carroll, Pete",SEA,@ARI,HC,0.0,1.0,22.0,-1.0,10.7
+12,"McVay, Sean",LAR,CHI,HC,0.0,1.0,21.0,-1.0,10.2
+13,"Nagy, Matt",CHI,@LAR,HC,0.0,1.0,21.0,-3.0,9.6
+14,"Arians, Bruce",TBB,@LVR,HC,0.0,1.0,21.0,-5.0,9.0
+15,"Lynn, Anthony",LAC,JAC,HC,0.0,1.0,19.0,-2.0,8.9
+16,"McDermott, Sean",BUF,@NYJ,HC,0.0,1.0,18.0,-1.0,8.7
+17,"Kingsbury, Kliff",ARI,SEA,HC,0.0,1.0,23.0,-12.0,7.9
+18,"Fangio, Vic",DEN,KCC,HC,0.0,1.0,17.0,-4.0,7.3
+19,"Gase, Adam",NYJ,BUF,HC,0.0,1.0,17.0,-6.0,6.7
+20,"Gruden, Jon",LVR,TBB,HC,0.0,1.0,16.0,-8.0,5.6
+21,"Flores, Brian",MIA,Bye,HC,0.0,1.0,17.0,-12.0,4.9
+22,"Vrabel, Mike",TEN,PIT,HC,0.0,1.0,18.0,-17.0,3.9
+23,"Marrone, Doug",JAC,@LAC,HC,0.0,1.0,17.0,-18.0,3.1
+24,"Pederson, Doug",PHI,NYG,HC,0.0,1.0,16.0,-19.0,2.3
+25,"Reich, Frank",IND,Bye,HC,0.0,1.0,16.0,-19.0,2.3
+

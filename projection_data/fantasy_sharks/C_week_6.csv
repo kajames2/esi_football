@@ -1,0 +1,27 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Pederson, Doug",PHI,BAL,HC,1.0,0.0,35.0,17.0,26.6
+2,"Payton, Sean",NOS,Bye,HC,1.0,0.0,35.0,16.0,26.3
+3,"Belichick, Bill",NEP,DEN,HC,1.0,0.0,35.0,15.0,26.0
+4,"Reid, Andy",KCC,@BUF,HC,1.0,0.0,35.0,12.0,25.1
+5,"Vrabel, Mike",TEN,HOU,HC,1.0,0.0,35.0,6.0,23.3
+6,"Harbaugh, John",BAL,@PHI,HC,1.0,0.0,30.0,9.0,21.7
+7,"Fangio, Vic",DEN,@NEP,HC,1.0,0.0,27.0,11.0,20.8
+8,"Marrone, Doug",JAC,DET,HC,1.0,0.0,31.0,4.0,20.7
+9,"McDermott, Sean",BUF,KCC,HC,1.0,0.0,26.0,12.0,20.6
+10,"Tomlin, Mike",PIT,CLE,HC,1.0,0.0,27.0,9.0,20.2
+11,"Shanahan, Kyle",SFO,LAR,HC,1.0,0.0,30.0,3.0,19.9
+12,"Carroll, Pete",SEA,Bye,HC,1.0,0.0,29.0,3.0,19.4
+13,"Flores, Brian",MIA,NYJ,HC,1.0,0.0,27.0,6.0,19.3
+14,"Nagy, Matt",CHI,@CAR,HC,1.0,0.0,25.0,7.0,18.6
+15,"Gruden, Jon",LVR,Bye,HC,1.0,0.0,24.0,4.0,17.2
+16,"LaFleur, Matt",GBP,@TBB,HC,1.0,0.0,24.0,1.0,16.3
+17,"Patricia, Matt",FA,Bye,HC,1.0,0.0,24.0,1.0,16.3
+18,"Lynn, Anthony",LAC,Bye,HC,1.0,0.0,23.0,2.0,16.1
+19,"Kingsbury, Kliff",ARI,@DAL,HC,0.0,1.0,28.0,-3.0,13.1
+20,"McVay, Sean",LAR,@SFO,HC,0.0,1.0,25.0,-3.0,11.6
+21,"Zimmer, Mike",MIN,ATL,HC,0.0,1.0,21.0,-3.0,9.6
+22,"Reich, Frank",IND,CIN,HC,0.0,1.0,25.0,-10.0,9.5
+23,"Arians, Bruce",TBB,GBP,HC,0.0,1.0,23.0,-11.0,8.2
+24,"Taylor, Zac",CIN,@IND,HC,0.0,1.0,19.0,-5.0,8.0
+25,"Gase, Adam",NYJ,@MIA,HC,0.0,1.0,17.0,-14.0,4.3
+
