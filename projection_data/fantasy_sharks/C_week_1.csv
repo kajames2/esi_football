@@ -1,0 +1,29 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Harbaugh, John",BAL,CLE,HC,1.0,0.0,35.0,23.0,28.4
+2,"Quinn, Dan",FA,Bye,HC,1.0,0.0,33.0,19.0,26.2
+3,"Shanahan, Kyle",SFO,ARI,HC,1.0,0.0,33.0,15.0,25.0
+4,"Reid, Andy",KCC,HOU,HC,1.0,0.0,31.0,15.0,24.0
+5,"Vrabel, Mike",TEN,@DEN,HC,1.0,0.0,32.0,11.0,23.3
+6,"Belichick, Bill",NEP,MIA,HC,1.0,0.0,28.0,13.0,21.9
+7,"Carroll, Pete",SEA,@ATL,HC,1.0,0.0,30.0,8.0,21.4
+8,"Reich, Frank",IND,@JAC,HC,1.0,0.0,30.0,7.0,21.1
+9,"McVay, Sean",LAR,DAL,HC,1.0,0.0,29.0,8.0,20.9
+10,"Lynn, Anthony",LAC,@CIN,HC,1.0,0.0,23.0,4.0,16.7
+11,"O'Brien, Bill",FA,Bye,HC,1.0,0.0,24.0,1.0,16.3
+12,"Zimmer, Mike",MIN,GBP,HC,1.0,0.0,21.0,3.0,15.4
+13,"McDermott, Sean",BUF,NYJ,HC,1.0,0.0,22.0,1.0,15.3
+14,"LaFleur, Matt",GBP,@MIN,HC,1.0,0.0,20.0,1.0,14.3
+15,"Gruden, Jon",LVR,@CAR,HC,0.0,1.0,20.0,-1.0,9.7
+16,"Nagy, Matt",CHI,@DET,HC,0.0,1.0,19.0,-2.0,8.9
+17,"Gase, Adam",NYJ,@BUF,HC,0.0,1.0,19.0,-2.0,8.9
+18,"Pederson, Doug",PHI,@WAS,HC,0.0,1.0,21.0,-8.0,8.1
+19,"Payton, Sean",NOS,TBB,HC,0.0,1.0,21.0,-9.0,7.8
+20,"Marrone, Doug",JAC,IND,HC,0.0,1.0,20.0,-8.0,7.6
+21,"Patricia, Matt",FA,Bye,HC,0.0,1.0,17.0,-6.0,6.7
+22,"Kingsbury, Kliff",ARI,@SFO,HC,0.0,1.0,20.0,-12.0,6.4
+23,"Flores, Brian",MIA,@NEP,HC,0.0,1.0,17.0,-10.0,5.5
+24,"Tomlin, Mike",PIT,@NYG,HC,0.0,1.0,18.0,-13.0,5.1
+25,"Arians, Bruce",TBB,@NOS,HC,0.0,1.0,17.0,-17.0,3.4
+26,"Fangio, Vic",DEN,TEN,HC,0.0,1.0,14.0,-21.0,0.7
+27,"Taylor, Zac",CIN,LAC,HC,0.0,1.0,13.0,-22.0,-0.1
+
