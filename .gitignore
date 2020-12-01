@@ -1,3 +1,3 @@
 # Ignore raw data files
 historical_data/*.csv
-projection_data/pff/*.csv
+projection_data/*/pff/
