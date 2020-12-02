@@ -58,6 +58,7 @@ def fixname(name):
 
     name=name.lower()
     name=name.replace('-','')
+    name=name.replace('.','')
     name=name.replace(',','')
     name=name.replace("'",'')
     split_name=name.split(" ")
@@ -111,7 +112,7 @@ def issame(player1,player2):
     distance+=amounts["pos"]*samepos(player1["position"],player2["position"])
     distance+=amounts["team"]*sameteam(player1["team"],player2["team"])
     
-    return distance
+    return distance<2
 
 f=open(location+"/NameList.csv","r")
 file=f.readlines()
@@ -134,9 +135,9 @@ for name in file[1:]:
         name_dict["position"]=name[6]
         name_dict["team"]=name[5]
         names2.append(copy.deepcopy(name_dict))
-maxdistance=5
+maxdistance=2
 for name1 in names1:
     for name2 in names2:
         distance=issame(name1,name2)
-        if distance<maxdistance and distance>2:
+        if distance<maxdistance and distance>1:
             print(name1,name2,distance)
