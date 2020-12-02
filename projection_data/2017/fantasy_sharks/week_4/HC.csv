@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Garrett, Jason",DAL,LAR,HC,1.,0.,35.,23.,28.4
+2,"Quinn, Dan",ATL,BUF,HC,1.,0.,35.,17.,26.6
+3,"Belichick, Bill",NEP,CAR,HC,1.,0.,35.,15.,26.
+4,"McCarthy, Mike",GBP,CHI,HC,1.,0.,34.,13.,24.9
+5,"Arians, Bruce",ARZ,SFO,HC,1.,0.,31.,12.,23.1
+6,"Payton, Sean",NOR,@MIA,HC,1.,0.,30.,9.,21.7
+7,"Lewis, Marvin",CIN,@CLE,HC,1.,0.,27.,13.,21.4
+8,"Zimmer, Mike",MIN,DET,HC,1.,0.,27.,4.,18.7
+9,"Reid, Andy",KCC,WAS,HC,1.,0.,27.,2.,18.1
+10,"Tomlin, Mike",PIT,@BAL,HC,1.,0.,24.,4.,17.2
+11,"Pederson, Doug",PHI,@LAC,HC,1.,0.,24.,2.,16.6
+12,"O'Brien, Bill",HOU,TEN,HC,1.,0.,21.,3.,15.4
+13,"Campbell, Dan",MIA,NOR,HC,0.,1.,28.,-2.,13.4
+14,"Bowles, Todd",NYJ,JAC,HC,0.,1.,21.,-2.,9.9
+15,"Fox, John",CHI,@GBP,HC,0.,1.,25.,-9.,9.8
+16,"Carroll, Pete",SEA,IND,HC,0.,1.,21.,-3.,9.6
+17,"Koetter, Dirk",TBB,NYG,HC,0.,1.,20.,-2.,9.4
+18,"Pagano, Chuck",IND,@SEA,HC,0.,1.,19.,-2.,8.9
+19,"Caldwell, Jim",DET,@MIN,HC,0.,1.,21.,-6.,8.7
+20,"Mularkey, Mike",TEN,@HOU,HC,0.,1.,18.,-3.,8.1
+21,"Gruden, Jay",WAS,@KCC,HC,0.,1.,20.,-7.,7.9
+22,"Harbaugh, John",BAL,PIT,HC,0.,1.,20.,-9.,7.3
+23,"Del Rio, Jack",OAK,@DEN,HC,0.,1.,17.,-7.,6.4
+24,"Jackson, Hue",CLE,CIN,HC,0.,1.,18.,-9.,6.3
+25,"McAdoo, Ben",NYG,@TBB,HC,0.,1.,17.,-8.,6.1
+26,"Rivera, Ron",CAR,@NEP,HC,0.,1.,13.,-22.,-0.1
+27,"McVay, Sean",LAR,@DAL,HC,0.,1.,10.,-25.,-2.5

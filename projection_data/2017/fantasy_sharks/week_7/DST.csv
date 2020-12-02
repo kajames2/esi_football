@@ -1,0 +1,31 @@
+Rank,Player,Team,Opp,Position,Yds Allowed,Pts Agn,Scks,Int,Fum,DefTD,Safts,Pts
+1,"Cardinals, Arizona",ARZ,@LAR,D,222.3,18.6,4.9,1.,1.4,0.2,0.,17.7
+2,"Panthers, Carolina",CAR,@CHI,D,298.2,19.9,3.6,1.4,1.1,0.,0.2,15.2
+3,"Broncos, Denver",DEN,@LAC,D,200.9,11.6,2.5,1.2,1.1,0.1,0.,15.1
+4,"Buccaneers, Tampa Bay",TBB,@BUF,D,286.4,17.5,2.2,1.8,0.4,0.2,0.1,14.3
+5,"Titans, Tennessee",TEN,@CLE,D,252.6,16.1,3.2,0.8,0.9,0.1,0.,13.9
+6,"Seahawks, Seattle",SEA,@NYG,D,214.7,14.8,2.8,0.4,0.8,0.,0.1,11.9
+7,"Bills, Buffalo",BUF,TBB,D,235.,16.5,2.2,1.,0.4,0.,0.,11.7
+8,"Chiefs, Kansas City",KCC,@OAK,D,301.9,15.8,1.1,1.,0.9,0.3,0.1,11.4
+9,"Cowboys, Dallas",DAL,@SFO,D,301.7,20.3,3.2,0.9,0.7,0.,0.,11.3
+10,"Chargers, San Diego",LAC,DEN,D,308.9,25.8,2.6,1.1,0.4,0.2,0.,10.7
+11,"Ravens, Baltimore",BAL,@MIN,D,324.8,19.9,1.6,1.2,0.6,0.,0.,10.4
+12,"Steelers, Pittsburgh",PIT,CIN,D,320.6,22.4,2.7,0.8,1.,0.,0.1,10.3
+13,"Rams, Los Angeles",LAR,ARZ,D,295.3,26.7,2.1,1.,0.3,0.,0.,10.3
+14,"Vikings, Minnesota",MIN,BAL,D,321.2,21.2,2.8,0.6,0.6,0.2,0.,10.2
+15,"Giants, New York",NYG,SEA,D,349.7,22.3,2.6,0.8,0.6,0.1,0.,10.
+16,"Eagles, Philadelphia",PHI,WAS,D,347.,22.8,1.6,1.2,0.3,0.2,0.,9.7
+17,"Jets, New York",NYJ,@MIA,D,292.8,21.9,1.6,0.4,0.5,0.1,0.,9.5
+18,"Jaguars, Jacksonville",JAC,@IND,D,322.9,23.1,2.1,0.7,0.5,0.2,0.,9.4
+19,"Colts, Indianapolis",IND,JAC,D,352.7,20.9,2.2,0.6,0.6,0.1,0.,9.
+20,"Raiders, Oakland",OAK,KCC,D,364.8,24.6,1.4,1.1,0.9,0.1,0.,8.9
+21,"Patriots, New England",NEP,ATL,D,381.5,20.5,1.7,0.9,0.5,0.1,0.,8.8
+22,"Bengals, Cincinnati",CIN,@PIT,D,351.7,16.9,2.1,0.9,0.3,0.,0.,8.4
+23,"Redskins, Washington",WAS,@PHI,D,379.2,23.1,2.,1.3,0.3,0.,0.,8.2
+24,"Bears, Chicago",CHI,CAR,D,344.7,27.,2.3,0.5,0.3,0.1,0.1,8.2
+25,"49ers, San Francisco",SFO,DAL,D,382.,27.3,2.3,0.7,0.5,0.,0.2,7.6
+26,"Browns, Cleveland",CLE,TEN,D,342.3,24.8,1.8,0.7,0.2,0.,0.,7.5
+27,"Packers, Green Bay",GBP,NOR,D,427.1,26.6,1.6,1.2,0.5,0.,0.,7.1
+28,"Falcons, Atlanta",ATL,@NEP,D,457.8,30.2,1.9,0.8,0.5,0.1,0.1,6.3
+29,"Saints, New Orleans",NOR,@GBP,D,398.2,29.9,1.9,0.6,0.3,0.,0.1,5.7
+30,"Dolphins, Miami",MIA,NYJ,D,495.5,33.5,0.9,0.8,0.5,0.,0.,4.9

@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Payton, Sean",NOR,@LAR,HC,1.,0.,35.,23.,28.4
+2,"Lewis, Marvin",CIN,CLE,HC,1.,0.,33.,19.,26.2
+3,"Belichick, Bill",NEP,MIA,HC,1.,0.,35.,15.,26.
+4,"Reid, Andy",KCC,BUF,HC,1.,0.,29.,11.,21.8
+5,"Pederson, Doug",PHI,CHI,HC,1.,0.,28.,12.,21.6
+6,"Garrett, Jason",DAL,LAC,HC,1.,0.,29.,8.,20.9
+7,"Carroll, Pete",SEA,@SFO,HC,1.,0.,27.,9.,20.2
+8,"Pagano, Chuck",IND,TEN,HC,1.,0.,27.,6.,19.3
+9,"Quinn, Dan",ATL,TBB,HC,1.,0.,29.,2.,19.1
+10,"Zimmer, Mike",MIN,@DET,HC,1.,0.,26.,5.,18.5
+11,"Arians, Bruce",ARZ,JAC,HC,1.,0.,25.,1.,16.8
+12,"Rivera, Ron",CAR,@NYJ,HC,1.,0.,24.,1.,16.3
+13,"Bowles, Todd",NYJ,CAR,HC,1.,0.,23.,2.,16.1
+14,"Harbaugh, John",BAL,HOU,HC,1.,0.,21.,2.,15.1
+15,"Tomlin, Mike",PIT,GBP,HC,0.,1.,28.,-1.,13.7
+16,"McCarthy, Mike",GBP,@PIT,HC,0.,1.,24.,-4.,10.8
+17,"Fox, John",CHI,@PHI,HC,0.,1.,24.,-4.,10.8
+18,"Gruden, Jay",WAS,NYG,HC,0.,1.,22.,-1.,10.7
+19,"McAdoo, Ben",NYG,@WAS,HC,0.,1.,22.,-2.,10.4
+20,"Caldwell, Jim",DET,MIN,HC,0.,1.,21.,-5.,9.
+21,"Del Rio, Jack",OAK,DEN,HC,0.,1.,19.,-2.,8.9
+22,"McVay, Sean",LAR,NOR,HC,0.,1.,24.,-11.,8.7
+23,"Mularkey, Mike",TEN,@IND,HC,0.,1.,21.,-6.,8.7
+24,"O'Brien, Bill",HOU,@BAL,HC,0.,1.,17.,-4.,7.3
+25,"Koetter, Dirk",TBB,@ATL,HC,0.,1.,19.,-10.,6.5
+26,"Campbell, Dan",MIA,@NEP,HC,0.,1.,15.,-20.,1.5
+27,"Jackson, Hue",CLE,@CIN,HC,0.,1.,10.,-23.,-1.9

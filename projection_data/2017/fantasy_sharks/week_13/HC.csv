@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Arians, Bruce",ARZ,LAR,HC,1.,0.,35.,25.,29.
+2,"Belichick, Bill",NEP,@BUF,HC,1.,0.,35.,21.,27.8
+3,"Fox, John",CHI,SFO,HC,1.,0.,31.,10.,22.5
+4,"Quinn, Dan",ATL,MIN,HC,1.,0.,31.,3.,20.4
+5,"Payton, Sean",NOR,CAR,HC,1.,0.,28.,6.,19.8
+6,"Harbaugh, John",BAL,DET,HC,1.,0.,25.,6.,18.3
+7,"Carroll, Pete",SEA,PHI,HC,1.,0.,23.,3.,16.4
+8,"Campbell, Dan",MIA,DEN,HC,1.,0.,24.,1.,16.3
+9,"McCarthy, Mike",GBP,TBB,HC,1.,0.,24.,1.,16.3
+10,"Del Rio, Jack",OAK,NYG,HC,1.,0.,23.,2.,16.1
+11,"Mularkey, Mike",TEN,HOU,HC,1.,0.,21.,3.,15.4
+12,"Garrett, Jason",DAL,WAS,HC,0.,1.,26.,-1.,12.7
+13,"Reid, Andy",KCC,@NYJ,HC,0.,1.,23.,-1.,11.2
+14,"Koetter, Dirk",TBB,@GBP,HC,0.,1.,23.,-2.,10.9
+15,"Rivera, Ron",CAR,@NOR,HC,0.,1.,24.,-4.,10.8
+16,"Gruden, Jay",WAS,@DAL,HC,0.,1.,23.,-3.,10.6
+17,"Lewis, Marvin",CIN,PIT,HC,0.,1.,23.,-4.,10.3
+18,"Pagano, Chuck",IND,@JAC,HC,0.,1.,21.,-2.,9.9
+19,"Bowles, Todd",NYJ,KCC,HC,0.,1.,21.,-2.,9.9
+20,"O'Brien, Bill",HOU,@TEN,HC,0.,1.,20.,-1.,9.7
+21,"Jackson, Hue",CLE,@LAC,HC,0.,1.,22.,-5.,9.5
+22,"McAdoo, Ben",NYG,@OAK,HC,0.,1.,21.,-6.,8.7
+23,"Tomlin, Mike",PIT,@CIN,HC,0.,1.,20.,-5.,8.5
+24,"Caldwell, Jim",DET,@BAL,HC,0.,1.,19.,-6.,7.7
+25,"Zimmer, Mike",MIN,@ATL,HC,0.,1.,21.,-10.,7.5
+26,"Pederson, Doug",PHI,@SEA,HC,0.,1.,18.,-5.,7.5
+27,"McVay, Sean",LAR,@ARZ,HC,0.,1.,10.,-25.,-2.5

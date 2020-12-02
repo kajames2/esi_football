@@ -1,0 +1,34 @@
+"Rank","Player","Team","Opp","Position","Yds Allowed","Pts Agn","Scks","Int","Fum","DefTD","Safts","Pts"
+1,"Chargers, Los Angeles","LAC","@JAC","D",216.,13.4,3.6,0.9,0.9,0.3,0.,16.3
+2,"Jets, New York","NYJ","MIA","D",286.8,20.9,3.4,0.8,0.6,0.3,0.,14.8
+3,"Steelers, Pittsburgh","PIT","@ARZ","D",237.2,16.3,3.9,0.6,0.3,0.1,0.1,13.2
+4,"Jaguars, Jacksonville","JAC","LAC","D",288.7,17.6,2.7,0.6,0.5,0.2,0.1,12.6
+5,"Texans, Houston","HOU","DEN","D",347.3,18.9,2.4,0.9,0.9,0.2,0.,12.
+6,"Bears, Chicago","CHI","DAL","D",331.4,17.6,2.4,1.4,0.2,0.2,0.1,11.8
+7,"Titans, Tennessee","TEN","@OAK","D",318.9,17.9,2.5,0.8,0.4,0.3,0.,11.5
+8,"Saints, New Orleans","NOS","SFO","D",340.2,20.5,2.9,1.,0.8,0.,0.,11.4
+9,"Broncos, Denver","DEN","@HOU","D",350.2,21.,2.7,1.1,0.7,0.1,0.,11.
+10,"Ravens, Baltimore","BAL","@BUF","D",348.7,21.5,1.8,0.7,0.4,0.3,0.,9.4
+11,"Falcons, Atlanta","ATL","CAR","D",384.4,24.8,2.5,1.1,0.3,0.1,0.,9.1
+12,"Redskins, Washington","WAS","@GBP","D",364.6,23.3,2.8,0.8,0.7,0.1,0.,9.1
+13,"Bills, Buffalo","BUF","BAL","D",319.8,25.4,1.7,1.,0.5,0.,0.1,8.8
+14,"Browns, Cleveland","CLE","CIN","D",379.2,23.6,2.3,0.9,0.7,0.,0.1,8.5
+15,"Patriots, New England","NEP","KCC","D",385.6,21.3,1.8,0.9,0.5,0.1,0.,8.2
+16,"Dolphins, Miami","MIA","@NYJ","D",415.7,29.6,2.1,1.1,0.4,0.3,0.,8.1
+17,"Packers, Green Bay","GBP","WAS","D",354.3,24.6,2.5,0.3,0.5,0.1,0.,7.9
+18,"Vikings, Minnesota","MIN","DET","D",350.1,23.8,2.5,0.5,0.2,0.1,0.,7.7
+19,"Lions, Detroit","DET","@MIN","D",372.5,22.9,2.3,0.4,0.4,0.1,0.,7.3
+20,"Cardinals, Arizona","ARZ","PIT","D",388.6,29.3,2.7,0.3,0.5,0.1,0.,7.1
+21,"Chiefs, Kansas City","KCC","@NEP","D",483.2,31.,2.4,0.8,0.6,0.2,0.,7.1
+22,"Seahawks, Seattle","SEA","@LAR","D",437.,26.6,1.9,0.5,0.6,0.1,0.,7.
+23,"Colts, Indianapolis","IND","@TBB","D",415.2,22.9,1.9,0.7,0.5,0.1,0.,6.7
+24,"Rams, Los Angeles","LAR","SEA","D",437.4,29.4,2.,0.8,0.4,0.2,0.1,6.5
+25,"Giants, New York","NYG","@PHI","D",430.7,29.3,1.7,0.9,0.3,0.2,0.,5.9
+26,"49ers, San Francisco","SFO","@NOS","D",359.2,28.4,2.3,0.1,0.3,0.1,0.,5.8
+27,"Eagles, Philadelphia","PHI","NYG","D",406.6,23.5,2.3,0.6,0.2,0.,0.,5.8
+28,"Cowboys, Dallas","DAL","@CHI","D",401.6,25.3,1.6,0.4,0.5,0.1,0.,5.8
+29,"Bengals, Cincinnati","CIN","@CLE","D",477.1,32.7,1.6,0.6,0.3,0.2,0.,5.8
+30,"Raiders, Oakland","OAK","TEN","D",375.9,28.7,0.7,1.,0.1,0.1,0.,5.6
+31,"Buccaneers, Tampa Bay","TBB","IND","D",421.5,31.3,2.,0.5,0.5,0.,0.,5.1
+32,"Panthers, Carolina","CAR","@ATL","D",447.1,28.7,1.5,0.5,0.5,0.,0.,4.6
+"","","","","","","","","","","","",""

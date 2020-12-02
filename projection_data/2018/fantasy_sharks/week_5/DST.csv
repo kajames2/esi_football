@@ -1,0 +1,31 @@
+Rank,Player,Team,Opp,Position,Yds Allowed,Pts Agn,Scks,Int,Fum,DefTD,Safts,Pts
+1,"Cowboys, Dallas",DAL,@HOU,D,197.3,12.5,2.1,1.1,0.8,0.2,0.,17.
+2,"Ravens, Baltimore",BAL,@CLE,D,258.4,15.6,2.9,1.5,1.2,0.3,0.,16.8
+3,"Rams, Los Angeles",LAR,@SEA,D,272.1,19.2,3.5,0.8,0.4,0.3,0.2,14.3
+4,"Texans, Houston",HOU,DAL,D,198.9,14.3,2.6,0.6,0.6,0.,0.,14.1
+5,"Broncos, Denver",DEN,@NYJ,D,211.3,15.8,2.,0.9,0.8,0.3,0.,14.
+6,"49ers, San Francisco",SFO,ARZ,D,244.8,16.9,2.,0.9,0.8,0.2,0.,13.1
+7,"Chargers, Los Angeles",LAC,OAK,D,317.4,14.8,2.3,1.4,0.7,0.3,0.,13.
+8,"Bills, Buffalo",BUF,TEN,D,279.4,16.6,2.4,1.2,0.,0.2,0.,12.5
+9,"Patriots, New England",NEP,IND,D,273.4,15.4,4.8,0.4,0.,0.,0.1,12.1
+10,"Panthers, Carolina",CAR,NYG,D,354.3,23.7,2.7,0.9,0.9,0.4,0.,11.8
+11,"Vikings, Minnesota",MIN,@PHI,D,284.7,18.6,1.8,1.,0.1,0.1,0.2,11.2
+12,"Bengals, Cincinnati",CIN,MIA,D,306.1,20.5,2.6,0.9,0.2,0.2,0.,11.1
+13,"Lions, Detroit",DET,GBP,D,365.1,22.4,2.5,1.4,0.9,0.1,0.,11.
+14,"Saints, New Orleans",NOR,WAS,D,338.9,21.4,2.6,1.5,0.3,0.1,0.,10.9
+15,"Titans, Tennessee",TEN,@BUF,D,327.,19.7,4.2,0.3,0.2,0.1,0.,10.5
+16,"Eagles, Philadelphia",PHI,MIN,D,404.7,17.5,1.3,0.7,1.,0.4,0.,10.1
+17,"Jets, New York",NYJ,DEN,D,281.7,20.4,2.2,0.2,0.4,0.,0.,9.9
+18,"Jaguars, Jacksonville",JAC,@KCC,D,386.2,24.5,2.3,0.8,0.5,0.3,0.,9.8
+19,"Dolphins, Miami",MIA,@CIN,D,336.9,25.2,2.,0.7,0.2,0.3,0.2,9.4
+20,"Steelers, Pittsburgh",PIT,ATL,D,360.,27.7,3.1,0.9,0.3,0.1,0.,9.
+21,"Cardinals, Arizona",ARZ,@SFO,D,326.5,22.5,1.6,0.7,0.6,0.1,0.,9.
+22,"Packers, Green Bay",GBP,@DET,D,351.6,24.8,3.1,0.5,0.3,0.2,0.,8.7
+23,"Falcons, Atlanta",ATL,@PIT,D,385.6,17.8,1.6,0.5,0.6,0.,0.,7.8
+24,"Chiefs, Kansas City",KCC,JAC,D,418.9,23.5,1.4,1.,0.7,0.1,0.,7.5
+25,"Seahawks, Seattle",SEA,LAR,D,393.1,28.7,1.5,0.6,0.5,0.3,0.1,7.2
+26,"Redskins, Washington",WAS,@NOR,D,461.3,27.7,2.1,0.7,0.4,0.1,0.,6.6
+27,"Colts, Indianapolis",IND,@NEP,D,389.4,23.4,0.9,0.6,0.2,0.,0.1,5.4
+28,"Browns, Cleveland",CLE,BAL,D,393.4,28.8,2.,0.2,0.2,0.,0.,4.9
+29,"Giants, New York",NYG,@CAR,D,495.7,29.1,1.2,0.9,0.2,0.1,0.,4.8
+30,"Raiders, Oakland",OAK,@LAC,D,441.5,29.6,1.8,0.5,0.3,0.,0.,4.5

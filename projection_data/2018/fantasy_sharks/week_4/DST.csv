@@ -1,0 +1,31 @@
+Rank,Player,Team,Opp,Position,Yds Allowed,Pts Agn,Scks,Int,Fum,DefTD,Safts,Pts
+1,"Jaguars, Jacksonville",JAC,NYJ,D,290.,18.4,3.1,1.1,0.6,0.4,0.,15.5
+2,"Eagles, Philadelphia",PHI,@TEN,D,311.5,13.6,1.7,0.8,1.3,0.5,0.,14.9
+3,"Seahawks, Seattle",SEA,@ARZ,D,256.8,18.5,2.4,0.9,0.7,0.4,0.2,14.9
+4,"Lions, Detroit",DET,@DAL,D,325.5,20.2,2.8,1.6,1.1,0.2,0.,14.
+5,"Buccaneers, Tampa Bay",TBB,@CHI,D,284.7,19.2,2.1,0.9,0.7,0.3,0.,13.7
+6,"Cardinals, Arizona",ARZ,SEA,D,259.2,18.1,2.2,1.,0.7,0.2,0.,13.1
+7,"Chiefs, Kansas City",KCC,@DEN,D,317.4,17.9,2.,1.4,0.9,0.2,0.,12.8
+8,"Raiders, Oakland",OAK,CLE,D,244.9,16.5,3.2,0.9,0.6,0.,0.,12.8
+9,"Falcons, Atlanta",ATL,CIN,D,278.4,12.8,2.2,0.7,0.8,0.,0.,12.8
+10,"Bills, Buffalo",BUF,@GBP,D,273.3,16.3,2.5,1.2,0.,0.2,0.,12.6
+11,"Saints, New Orleans",NOR,@NYG,D,319.8,20.2,2.7,1.6,0.3,0.1,0.,12.3
+12,"Bears, Chicago",CHI,TBB,D,325.2,17.5,2.1,0.6,0.9,0.3,0.,11.9
+13,"Patriots, New England",NEP,MIA,D,297.5,16.9,4.5,0.4,0.,0.,0.1,11.8
+14,"Colts, Indianapolis",IND,HOU,D,210.9,12.6,1.6,1.,0.3,0.,0.3,11.7
+15,"Cowboys, Dallas",DAL,DET,D,273.8,16.7,1.6,0.8,0.6,0.1,0.,11.7
+16,"Texans, Houston",HOU,@IND,D,223.9,16.3,2.5,0.6,0.6,0.,0.,11.3
+17,"Vikings, Minnesota",MIN,@LAR,D,281.1,18.2,1.8,1.,0.1,0.1,0.2,11.3
+18,"Browns, Cleveland",CLE,@OAK,D,270.7,19.8,2.9,0.3,0.3,0.,0.,10.7
+19,"Chargers, Los Angeles",LAC,SFO,D,394.7,18.5,1.8,1.1,0.6,0.2,0.,10.2
+20,"Broncos, Denver",DEN,KCC,D,301.8,22.7,1.5,0.7,0.6,0.3,0.,9.8
+21,"Packers, Green Bay",GBP,BUF,D,348.4,24.4,3.1,0.5,0.4,0.2,0.,9.8
+22,"Rams, Los Angeles",LAR,MIN,D,365.5,25.7,2.7,0.7,0.3,0.2,0.1,9.
+23,"Ravens, Baltimore",BAL,@PIT,D,438.3,26.9,1.6,0.8,0.6,0.2,0.,7.5
+24,"Steelers, Pittsburgh",PIT,BAL,D,395.9,30.7,2.7,0.8,0.2,0.1,0.,7.3
+25,"Bengals, Cincinnati",CIN,@ATL,D,402.8,27.,2.,0.6,0.2,0.2,0.,6.6
+26,"Giants, New York",NYG,NOR,D,472.6,27.7,1.3,0.9,0.2,0.1,0.,6.2
+27,"Titans, Tennessee",TEN,PHI,D,413.5,24.9,3.2,0.2,0.1,0.1,0.,6.2
+28,"49ers, San Francisco",SFO,@LAC,D,403.4,27.5,1.1,0.5,0.5,0.1,0.,5.7
+29,"Jets, New York",NYJ,@JAC,D,379.8,27.4,1.6,0.1,0.3,0.,0.,5.6
+30,"Dolphins, Miami",MIA,@NEP,D,441.9,33.2,1.4,0.6,0.1,0.2,0.1,5.1

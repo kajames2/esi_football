@@ -1,0 +1,33 @@
+Player,Sack,Int,FR,FF,TD,Assist,Safety,PA,YA,FPts
+Arizona Cardinals,44,15,15,21,5,0,0,316,4641.,134
+Atlanta Falcons,29,14,12,17,4,0,0,370,5752.,105
+Baltimore Ravens,37,15,13,18,5,0,0,281,4677.,123
+Buffalo Bills,36,15,10,14,4,0,0,386,5933.,110
+Carolina Panthers,41,14,14,20,4,0,1,361,5293.,121
+Chicago Bears,40,11,8,11,4,0,0,394,5281.,102
+Cincinnati Bengals,34,15,9,12,4,0,0,296,5209.,106
+Cleveland Browns,32,15,8,11,3,0,0,377,5666.,96
+Dallas Cowboys,33,12,14,19,4,0,0,325,5277.,109
+Denver Broncos,39,16,16,23,5,0,0,290,4563.,133
+Detroit Lions,32,11,10,14,4,0,1,372,5836.,98
+Green Bay Packers,34,15,10,14,4,0,1,341,5360.,108
+Houston Texans,36,17,11,16,5,0,0,305,4759.,122
+Indianapolis Colts,33,15,13,18,4,0,0,371,5543.,113
+Jacksonville Jaguars,38,15,11,15,4,0,0,391,4716.,114
+Kansas City Chiefs,26,18,16,22,5,0,0,305,5450.,124
+Los Angeles Chargers,37,16,14,19,5,0,0,418,5180.,127
+Los Angeles Rams,39,14,12,17,2.75,0,0,359,5113.,103
+Miami Dolphins,30,17,11,15,5,0,0,376,5925.,116
+Minnesota Vikings,41,17,15,21,6,0,1,316,5212.,141
+New England Patriots,34,16,13,18,5,0,0,256,4842.,122
+New Orleans Saints,29,13,15,21,4,0,0,437,6099.,109
+New York Giants,30,16,13,17,5,0,0,301,5067.,118
+New York Jets,31,12,11,16,4,0,0,401,5461.,101
+Oakland Raiders,27,17,16,22,5,0,0,357,5542.,123
+Philadelphia Eagles,34,16,16,22,5,0,0,351,5517.,128
+Pittsburgh Steelers,38,14,15,21,4,0,0,299,5101.,120
+San Francisco 49ers,31,15,11,16,4,0,0,391,5802.,107
+Seattle Seahawks,40,14,12,16,4,0,0,274,4672.,116
+Tampa Bay Buccaneers,39,16,15,21,5,0,1,376,5780.,131
+Tennessee Titans,39,17,10,14,4.,0,0,342,5070.,123
+Washington Redskins,34.5,13,13,18,4,0,0,376,5590.,110

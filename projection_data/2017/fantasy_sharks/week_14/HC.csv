@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Belichick, Bill",NEP,@MIA,HC,1.,0.,35.,21.,27.8
+2,"McCarthy, Mike",GBP,@CLE,HC,1.,0.,32.,20.,26.
+3,"Pederson, Doug",PHI,@LAR,HC,1.,0.,31.,21.,25.8
+4,"Lewis, Marvin",CIN,CHI,HC,1.,0.,33.,17.,25.6
+5,"Quinn, Dan",ATL,NOR,HC,1.,0.,35.,4.,22.7
+6,"Gruden, Jay",WAS,@LAC,HC,1.,0.,29.,6.,20.3
+7,"Koetter, Dirk",TBB,DET,HC,1.,0.,27.,8.,19.9
+8,"Reid, Andy",KCC,OAK,HC,1.,0.,27.,7.,19.6
+9,"Tomlin, Mike",PIT,BAL,HC,1.,0.,27.,6.,19.3
+10,"Arians, Bruce",ARZ,TEN,HC,1.,0.,27.,5.,19.
+11,"O'Brien, Bill",HOU,SFO,HC,1.,0.,24.,9.,18.7
+12,"Zimmer, Mike",MIN,@CAR,HC,1.,0.,24.,4.,17.2
+13,"McAdoo, Ben",NYG,DAL,HC,1.,0.,23.,5.,17.
+14,"Pagano, Chuck",IND,@BUF,HC,1.,0.,24.,3.,16.9
+15,"Carroll, Pete",SEA,@JAC,HC,1.,0.,21.,2.,15.1
+16,"Rivera, Ron",CAR,MIN,HC,0.,1.,21.,-3.,9.6
+17,"Caldwell, Jim",DET,@TBB,HC,0.,1.,22.,-5.,9.5
+18,"Mularkey, Mike",TEN,@ARZ,HC,0.,1.,22.,-5.,9.5
+19,"Jackson, Hue",CLE,GBP,HC,0.,1.,23.,-9.,8.8
+20,"McVay, Sean",LAR,PHI,HC,0.,1.,22.,-8.,8.6
+21,"Harbaugh, John",BAL,@PIT,HC,0.,1.,20.,-7.,7.9
+22,"Garrett, Jason",DAL,@NYG,HC,0.,1.,18.,-5.,7.5
+23,"Payton, Sean",NOR,@ATL,HC,0.,1.,22.,-13.,7.1
+24,"Del Rio, Jack",OAK,@KCC,HC,0.,1.,18.,-9.,6.3
+25,"Campbell, Dan",MIA,NEP,HC,0.,1.,20.,-15.,5.5
+26,"Fox, John",CHI,@CIN,HC,0.,1.,19.,-14.,5.3
+27,"Bowles, Todd",NYJ,@DEN,HC,0.,1.,16.,-11.,4.7

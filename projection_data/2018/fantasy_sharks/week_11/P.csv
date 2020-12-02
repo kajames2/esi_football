@@ -1,0 +1,27 @@
+Rank,Player,Team,Opp,Position,PUNTS,PUNT_YDS,PUNT_RETURN_YD,PUNT_INSIDE20,Pts
+1,"Lee, Andy",ARZ,OAK,P,5.8,273.6,31.2,1.8,18.4
+2,"Hekker, Johnny",LAR,KCC,P,4.9,235.4,10.,2.5,17.9
+3,"Koch, Sam",BAL,CIN,P,5.1,232.1,20.1,2.5,17.5
+4,"Huber, Kevin",CIN,@BAL,P,5.4,248.8,25.,1.6,16.6
+5,"Daniel, Trevor",HOU,@WAS,P,4.9,236.2,31.9,1.9,16.5
+6,"Kern, Brett",TEN,@IND,P,4.8,222.4,18.9,1.9,15.9
+7,"O'Donnell, Pat",CHI,MIN,P,5.,230.7,25.3,1.6,15.7
+8,"Dickson, Michael",SEA,GBP,P,5.1,227.8,22.7,1.7,15.6
+9,"Cooke, Logan",JAC,PIT,P,5.,221.6,16.,1.6,15.2
+10,"Townsend, Johnny",OAK,@ARZ,P,4.5,209.6,16.2,1.8,14.9
+11,"Dixon, Riley",NYG,TBB,P,5.2,230.7,19.7,1.4,14.8
+12,"Wile, Matt",MIN,@CHI,P,4.7,199.4,15.5,1.9,14.7
+13,"Palardy, Michael",CAR,@DET,P,4.6,207.3,14.1,1.6,14.5
+14,"Way, Tress",WAS,HOU,P,4.5,204.3,23.7,1.6,14.3
+15,"Colquitt, Dustin",KCC,@LAR,P,4.3,194.9,10.4,1.9,14.3
+16,"Sanchez, Rigoberto",IND,TEN,P,4.7,213.2,5.6,1.5,14.3
+17,"Kaser, Drew",LAC,DEN,P,4.2,199.9,18.3,1.5,13.9
+18,"King, Marquette",DEN,@LAC,P,4.2,195.3,13.4,1.5,13.5
+19,"Anger, Bryan",TBB,@NYG,P,4.1,183.,7.9,1.8,13.4
+20,"Jones, Chris",DAL,@ATL,P,3.9,175.9,7.1,1.9,13.1
+21,"Martin, Sam",DET,CAR,P,4.2,188.2,13.1,1.4,13.1
+22,"Johnston, Cam",PHI,@NOR,P,3.9,177.,11.,1.3,11.9
+23,"Berry, Jordan",PIT,@JAC,P,3.7,162.6,10.8,1.4,11.6
+24,"Scott, J.K.",GBP,@SEA,P,3.9,170.5,10.5,1.1,11.5
+25,"Bosher, Matt",ATL,DAL,P,3.4,152.4,12.,1.4,11.1
+26,"Morstead, Thomas",NOR,PHI,P,3.,141.,11.,1.2,10.

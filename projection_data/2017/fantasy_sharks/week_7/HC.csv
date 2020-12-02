@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Arians, Bruce",ARZ,@LAR,HC,1.,0.,33.,21.,26.8
+2,"Belichick, Bill",NEP,ATL,HC,1.,0.,34.,10.,24.
+3,"Garrett, Jason",DAL,@SFO,HC,1.,0.,29.,11.,21.8
+4,"Mularkey, Mike",TEN,@CLE,HC,1.,0.,25.,12.,20.1
+5,"Campbell, Dan",MIA,NYJ,HC,1.,0.,28.,5.,19.5
+6,"Zimmer, Mike",MIN,BAL,HC,1.,0.,27.,6.,19.3
+7,"Gruden, Jay",WAS,@PHI,HC,1.,0.,27.,4.,18.7
+8,"Rivera, Ron",CAR,@CHI,HC,1.,0.,25.,7.,18.6
+9,"Koetter, Dirk",TBB,@BUF,HC,1.,0.,24.,5.,17.5
+10,"Bowles, Todd",NYJ,@MIA,HC,1.,0.,23.,2.,16.1
+11,"McCarthy, Mike",GBP,NOR,HC,0.,1.,30.,-1.,14.7
+12,"Payton, Sean",NOR,@GBP,HC,0.,1.,28.,-2.,13.4
+13,"Pagano, Chuck",IND,JAC,HC,0.,1.,24.,-1.,11.7
+14,"Jackson, Hue",CLE,TEN,HC,0.,1.,24.,-1.,11.7
+15,"Reid, Andy",KCC,@OAK,HC,0.,1.,23.,-1.,11.2
+16,"Pederson, Doug",PHI,WAS,HC,0.,1.,23.,-1.,11.2
+17,"Tomlin, Mike",PIT,CIN,HC,0.,1.,23.,-2.,10.9
+18,"O'Brien, Bill",HOU,Bye,HC,0.,1.,21.,-1.,10.2
+19,"McAdoo, Ben",NYG,SEA,HC,0.,1.,21.,-2.,9.9
+20,"Del Rio, Jack",OAK,KCC,HC,0.,1.,21.,-2.,9.9
+21,"McVay, Sean",LAR,ARZ,HC,0.,1.,24.,-9.,9.3
+22,"Fox, John",CHI,CAR,HC,0.,1.,21.,-4.,9.3
+23,"Lewis, Marvin",CIN,@PIT,HC,0.,1.,20.,-4.,8.8
+24,"Harbaugh, John",BAL,@MIN,HC,0.,1.,19.,-8.,7.1
+25,"Carroll, Pete",SEA,@NYG,HC,0.,1.,17.,-5.,7.
+26,"Quinn, Dan",ATL,@NEP,HC,0.,1.,21.,-14.,6.3
+27,"Caldwell, Jim",DET,Bye,HC,0.,1.,17.,-18.,3.1
