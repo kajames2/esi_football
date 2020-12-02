@@ -1,0 +1,29 @@
+Rank,Player,Team,Opp,Position,Yds Allowed,Pts Agn,Scks,Int,Fum,DefTD,Safts,Pts
+1,"Steelers, Pittsburgh",PIT,CLE,D,209.,16.,4.9,1.3,0.4,0.2,0.,16.
+2,"Rams, Los Angeles",LAR,GBP,D,268.,19.,3.5,0.9,0.4,0.3,0.1,14.3
+3,"Buccaneers, Tampa Bay",TBB,@CIN,D,296.7,20.,2.,0.9,0.6,0.3,0.,13.5
+4,"Dolphins, Miami",MIA,@HOU,D,239.9,17.9,2.5,0.9,0.2,0.3,0.3,13.2
+5,"49ers, San Francisco",SFO,@ARZ,D,244.8,16.9,2.,0.9,0.8,0.2,0.,13.1
+6,"Chiefs, Kansas City",KCC,DEN,D,317.4,17.9,2.,1.4,0.9,0.2,0.,12.8
+7,"Bears, Chicago",CHI,NYJ,D,305.2,16.4,2.2,0.7,0.9,0.3,0.,12.4
+8,"Raiders, Oakland",OAK,IND,D,289.8,19.5,2.9,0.8,0.6,0.,0.,12.2
+9,"Texans, Houston",HOU,MIA,D,247.,18.1,2.4,0.6,0.6,0.,0.,11.2
+10,"Vikings, Minnesota",MIN,NOR,D,290.1,18.8,1.8,1.,0.1,0.1,0.2,11.2
+11,"Seahawks, Seattle",SEA,@DET,D,317.6,22.8,2.,0.8,0.6,0.4,0.1,11.
+12,"Lions, Detroit",DET,SEA,D,375.3,23.1,2.4,1.4,0.9,0.1,0.,10.8
+13,"Patriots, New England",NEP,@BUF,D,310.8,17.2,4.4,0.4,0.,0.,0.1,10.2
+14,"Jets, New York",NYJ,@CHI,D,281.5,20.3,2.2,0.2,0.4,0.,0.,10.
+15,"Broncos, Denver",DEN,@KCC,D,301.8,22.7,1.5,0.7,0.6,0.3,0.,9.8
+16,"Colts, Indianapolis",IND,@OAK,D,294.9,17.7,1.2,0.8,0.3,0.,0.2,9.8
+17,"Bengals, Cincinnati",CIN,TBB,D,324.8,21.8,2.5,0.8,0.2,0.2,0.,9.8
+18,"Eagles, Philadelphia",PHI,@JAC,D,415.3,18.1,1.3,0.6,1.,0.4,0.,9.8
+19,"Jaguars, Jacksonville",JAC,PHI,D,393.,24.9,2.3,0.8,0.5,0.3,0.,9.6
+20,"Redskins, Washington",WAS,@NYG,D,360.,21.6,2.8,0.9,0.5,0.1,0.,9.3
+21,"Cardinals, Arizona",ARZ,SFO,D,326.5,22.5,1.6,0.7,0.6,0.1,0.,9.
+22,"Saints, New Orleans",NOR,@MIN,D,391.,24.8,2.2,1.3,0.2,0.1,0.,8.9
+23,"Giants, New York",NYG,WAS,D,390.,22.8,1.8,1.3,0.2,0.2,0.,8.7
+24,"Bills, Buffalo",BUF,NEP,D,389.6,23.4,1.8,0.9,0.,0.2,0.,7.5
+25,"Ravens, Baltimore",BAL,@CAR,D,444.9,27.1,1.5,0.8,0.6,0.2,0.,7.2
+26,"Panthers, Carolina",CAR,BAL,D,473.,31.4,1.9,0.6,0.6,0.3,0.,7.
+27,"Browns, Cleveland",CLE,@PIT,D,381.6,28.,2.1,0.2,0.3,0.,0.,6.1
+28,"Packers, Green Bay",GBP,@LAR,D,438.7,30.7,2.4,0.4,0.3,0.1,0.,5.3

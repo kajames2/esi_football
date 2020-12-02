@@ -1,0 +1,191 @@
+from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+import time
+from pprint import pprint
+from bs4 import BeautifulSoup
+import csv
+
+LEAGUE_ID = '53598362'
+SORTABLE_PROJECTIONS_PATH = '//*[@id="espn-analytics"]/div/div[5]/div[2]/div[1]/div[1]/div/div[2]/div[2]/div/button[1]'
+NEXT_PAGE_PATH = '//*[@id="espn-analytics"]/div/div[5]/div[2]/div[2]/div/div/div/div/div/button[2]'
+BASE_PATH = '//*[@id="espn-analytics"]/div/div[5]/div[2]/div[2]/div/div/div/div'
+HEADING_DICT = {
+  'Name': 'Name',
+  'Team': 'Team',
+  'Position': 'Pos',
+  'Each Pass Completed & Each Pass Attempted': 'Pass Cmp/Pass Att',
+  'Passing Yards': 'Pass Yds',
+  'TD Pass': 'Pass Tds',
+  'Interceptions Thrown': 'Pass Ints',
+  'Rushing Attempts': 'Rush Att',
+  'Rushing Yards': 'Rush Yds',
+  'TD Rush': 'Rush Tds',
+  'Receiving Target': 'Tar',
+  'Each reception': 'Rec',
+  'Receiving Yards': 'RecYds',
+  'TD Reception': 'Rec Tds',
+  'Total Tackles' : 'Tackles',
+  'Each Sack' : 'Sack',
+  'Each Fumble Forced' : 'FF',
+  'Each Fumble Recovered' : 'FR',
+  'Each Interception' : 'Int',
+  'Interception Return TD' : 'IntTD',
+  'Fumble Return TD' : 'FumTD',
+  'Pass Def' : 'Pass Def',
+  'Field Goals Made / Field Goals Attempted Inside 40 Yards' : 'FGM_0_40/FGA_0_40',
+  'Field Goals Made / Field Goals Attempted 40-49 Yards' : 'FGM_40_49/FGA_40_49',
+  'Field Goals Made / Field Goals Attempted 50+ Yards' : 'FGM_50/FGA_50',
+  'Extra Points Made / Extra Points Attempted' : 'XPM/XPA',
+  'Net Punts' : "Pnt",
+  'Punt Average' : "PntAvg",
+  'Blocked Punts' : "PntBlk",
+  'Punts Inside the 20' : 'Pnt20',
+  'Touchbacks' : 'TB',
+  'Team Win' : 'Win',
+  'Margin of Victory' : 'WinMarg'
+}
+
+
+def main():
+  driver = webdriver.Chrome()
+  NavigateToProjections(driver)
+  pid = 0
+  for i in range(2, 15):
+    players = ReadPosition(driver, i)
+    FormatData(pid, players)
+    pid = pid + len(players)
+    headers = list(players[0].keys())
+    pos = players[0]['Pos']
+    if pos == 'D/ST':
+      pos = 'DST'
+    with open(pos + '.csv', mode='w') as csv_file:
+      writer = csv.DictWriter(csv_file, fieldnames=headers)
+      writer.writeheader()
+      for p in players:
+        writer.writerow(p)
+
+
+def NavigateToProjections(driver):
+  global LEAGUE_ID
+  global SORTABLE_PROJECTIONS_PATH
+  driver.get("https://fantasy.espn.com/football/players/projections?leagueId=" + LEAGUE_ID)
+  driver.set_page_load_timeout(20)
+  sortable_projections_button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, SORTABLE_PROJECTIONS_PATH)))
+  sortable_projections_button.click()
+
+
+  
+def ReadPosition(driver, pos_id):
+  global NEXT_PAGE_PATH
+  more_pages = True
+  position_players = []
+  button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="filterSlotIds"]/label[' + str(pos_id) + ']')))
+  actions = ActionChains(driver)
+  actions.move_to_element(button).perform()
+  button.click()
+  time.sleep(0.5)
+  while more_pages:
+    soup = GetBaseSoup(driver)
+    (players, headers) = ReadPage(soup)
+    position_players = position_players + players
+    try:
+      next_page_el = soup.find('div', recursive=False).find_all('button', recursive=False)[1].svg['class']
+      more_pages = 'fill-clr-gray-06' not in next_page_el
+      if more_pages:
+        driver.find_element_by_xpath(NEXT_PAGE_PATH).click()
+    except:
+      more_pages = False
+  temp_players = [{headers[j] : position_players[i][j] for j in range(0,len(headers))} for i in range(0, len(position_players))]
+  ret_players = [{HEADING_DICT[key] : player.get(key, '') for key in HEADING_DICT} for player in temp_players]
+  if ret_players[0]['Pos'] in {'DT','DE','LB','CB', 'S'}:
+    for i in range(0,len(ret_players)):
+      ret_players[i]['Pass Def'] = temp_players[i]['Fantasy Points']
+  return ret_players
+
+
+
+def GetBaseSoup(driver):
+  global BASE_PATH
+  base_el = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, BASE_PATH + '/section/table/tbody/tr/td[1]/div/table/tbody')))
+  base_el = driver.find_element_by_xpath(BASE_PATH)
+  return BeautifulSoup(base_el.get_attribute('innerHTML'), 'html.parser')
+
+
+  
+def ReadPage(soup):
+  table_soup =  soup.section.table.tbody.tr
+  players = ReadPlayers(table_soup)
+  stats_soup = table_soup.find_all('td', recursive=False)[1].div.div.find_all('div', recursive=False)[1].table.tbody.tr.td.div.table.tbody.find_all('tr', recursive=False)
+  stats_dic = {}
+  for tr in stats_soup:
+    for td in tr.find_all('td', recursive=False):
+      el = td.div
+      key = el['title']
+      if key not in stats_dic:
+        stats_dic[key] = []
+      stats_dic[key].append(el.string);
+  stats_dic['Fantasy Points'] = ReadFantasyPoints(table_soup)
+  player_values = list(zip(*stats_dic.values()))
+  headers = headers = ["Name", "Team", "Position"] + list(stats_dic.keys())
+  player_dicts = [players[i] + list(player_values[i]) for i in range(0, len(players))]
+  return (player_dicts, headers)
+
+
+def ReadPlayers(table_soup):
+  players = []
+  names_soup = table_soup.find_all('td', recursive=False)[0].div.table.tbody.find_all('tr', recursive=False)
+  for tr in names_soup:
+    name_soup = tr.find_all('td', recursive=False)[1].div.div.find_all('div', recursive=False)[1].div.find_all('div', recursive=False)
+    name_el = name_soup[0].span.a
+    team_el = name_soup[1].find_all('span', recursive=False)[0]
+    pos_el = name_soup[1].find_all('span', recursive=False)[1]
+    players.append([name_el.string, team_el.string, pos_el.string])
+  return players
+
+
+
+def ReadFantasyPoints(table_soup):
+  points = []
+  points_soup = table_soup.find_all('td',recursive=False)[2].div.table.tbody.find_all('tr', recursive=False)
+  for tr in points_soup:
+    points.append(tr.td.div.span.string)
+  return points
+
+
+
+def FormatData(pid, players):
+  for p in players:
+    SplitParams(p, ['Pass Cmp/Pass Att', 'FGM_0_40/FGA_0_40', 'FGM_40_49/FGA_40_49','FGM_50/FGA_50','XPM/XPA'])
+    for key in p.keys():
+      if key not in ['Name', 'Team', 'Pos']:
+        if p[key] == '--':
+          p[key] = 0
+        elif p[key] == '':
+          p[key] = ''
+        else:
+          p[key] = float(p[key])
+    p['PlayerID'] = pid
+    pid += 1
+
+def SplitParams(player_dict, keys):
+  for key in keys:
+    SplitParam(player_dict, key)
+
+def SplitParam(player_dict, key):
+  key1, key2 = tuple(key.split('/'))
+  val = player_dict.pop(key)
+  if not val:
+    val1, val2 = ('','')
+  else:
+    val1, val2 = tuple(val.split('/'))
+  player_dict[key1] = val1
+  player_dict[key2] = val2
+
+
+  
+if __name__ == "__main__":
+    main()

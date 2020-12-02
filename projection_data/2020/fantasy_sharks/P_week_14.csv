@@ -1,0 +1,34 @@
+Rank,Player,Team,Opp,Position,PUNTS,PUNT_YDS,PUNT_RETURN_YD,PUNT_INSIDE20,Pts
+1,"O'Donnell, Pat",CHI,HOU,P,4.9,222.0,21.0,1.9,15.7
+2,"Berry, Jordan",PIT,@BUF,P,4.8,218.0,21.0,1.8,15.4
+3,"Way, Tress",WAS,@SFO,P,4.5,220.0,17.0,1.8,15.4
+4,"Cooke, Logan",JAC,TEN,P,4.5,210.0,9.0,1.8,15.0
+5,"Mann, Braden",NYJ,@SEA,P,5.0,223.0,24.0,1.3,14.7
+6,"Fox, Jack",DET,GBP,P,4.1,202.0,8.0,1.8,14.6
+7,"Dickson, Michael",SEA,NYJ,P,4.2,198.0,15.0,1.9,14.4
+8,"Johnston, Cam",PHI,NOS,P,4.4,208.0,17.0,1.5,14.3
+9,"Hekker, Johnny",LAR,NEP,P,4.2,195.0,15.0,1.9,14.3
+10,"Haack, Matt",MIA,KCC,P,4.5,203.0,12.0,1.6,14.2
+11,"Huber, Kevin",CIN,DAL,P,4.5,207.0,12.0,1.4,14.0
+12,"Dixon, Riley",NYG,ARI,P,4.0,177.0,6.0,1.9,13.3
+13,"Bailey, Jake",NEP,@LAR,P,3.7,168.0,6.0,1.7,12.6
+14,"Martin, Sam",DEN,@CAR,P,4.0,188.0,15.0,1.3,12.6
+15,"Lee, Andy",ARI,@NYG,P,3.8,175.0,14.0,1.3,12.0
+16,"Anger, Bryan",HOU,@CHI,P,3.5,164.0,7.0,1.4,11.7
+17,"Morstead, Thomas",NOS,@PHI,P,3.6,155.0,6.0,1.6,11.6
+18,"Bojorquez, Corey",BUF,PIT,P,3.5,157.0,11.0,1.4,11.2
+19,"Palardy, Michael",CAR,DEN,P,3.6,164.0,18.0,1.2,11.2
+20,"Gillan, Jamie",CLE,BAL,P,3.6,160.0,15.0,1.2,11.0
+21,"Koch, Sam",BAL,@CLE,P,3.3,150.0,10.0,1.5,11.0
+22,"Cole, A.J.",LVR,IND,P,3.2,143.0,11.0,1.6,10.9
+23,"Wishnowsky, Mitch",SFO,WAS,P,3.4,157.0,8.0,1.2,10.8
+24,"Scott, J.K.",GBP,@DET,P,3.7,162.0,19.0,1.1,10.7
+25,"Pinion, Bradley",TBB,MIN,P,3.5,155.0,10.0,1.1,10.7
+26,"Sanchez, Rigoberto",IND,@LVR,P,3.2,145.0,7.0,1.5,10.6
+27,"Colquitt, Britton",MIN,@TBB,P,3.7,168.0,21.0,1.0,10.4
+28,"Hofrichter, Sterling",ATL,@LAC,P,3.5,148.0,7.0,1.0,9.9
+29,"Long, Ty",LAC,ATL,P,3.3,154.0,23.0,0.9,9.2
+30,"Charlton, Joseph",CAR,DEN,P,2.8,133.0,10.0,0.9,9.1
+31,"Townsend, Tommy",KCC,@MIA,P,2.8,130.0,8.0,1.0,9.1
+32,"Niswander, Hunter",DAL,@CIN,P,2.6,111.0,6.0,0.8,7.6
+

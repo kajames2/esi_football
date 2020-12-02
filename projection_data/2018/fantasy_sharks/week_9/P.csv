@@ -1,0 +1,27 @@
+Rank,Player,Team,Opp,Position,PUNTS,PUNT_YDS,PUNT_RETURN_YD,PUNT_INSIDE20,Pts
+1,"Hekker, Johnny",LAR,@NOR,P,4.9,235.2,9.9,2.5,17.8
+2,"Koch, Sam",BAL,PIT,P,5.1,231.2,19.8,2.5,17.4
+3,"Edwards, Lachlan",NYJ,@MIA,P,5.5,250.6,27.7,1.8,17.2
+4,"Daniel, Trevor",HOU,@DEN,P,4.9,236.3,31.9,1.9,16.5
+5,"Pinion, Bradley",SFO,OAK,P,5.2,228.9,14.9,1.8,16.1
+6,"Kern, Brett",TEN,@DAL,P,4.8,224.4,19.2,1.9,16.1
+7,"Haack, Matt",MIA,NYJ,P,5.1,228.3,15.,1.8,16.
+8,"O'Donnell, Pat",CHI,@BUF,P,5.,230.,25.,1.6,15.7
+9,"Dickson, Michael",SEA,LAC,P,5.1,228.6,23.5,1.6,15.5
+10,"Townsend, Johnny",OAK,@SFO,P,4.5,209.6,16.2,1.8,14.9
+11,"Palardy, Michael",CAR,TBB,P,4.6,207.2,14.,1.6,14.5
+12,"Way, Tress",WAS,ATL,P,4.5,204.3,23.7,1.6,14.3
+13,"Colquitt, Dustin",KCC,@CLE,P,4.3,194.9,10.4,1.9,14.3
+14,"Wile, Matt",MIN,DET,P,4.5,191.3,13.3,1.8,14.1
+15,"Kaser, Drew",LAC,@SEA,P,4.1,197.4,17.8,1.5,13.7
+16,"Bojorquez, Corey",BUF,CHI,P,4.5,196.7,13.9,1.4,13.5
+17,"Anger, Bryan",TBB,@CAR,P,4.1,183.2,8.,1.8,13.5
+18,"King, Marquette",DEN,HOU,P,4.2,193.9,12.7,1.5,13.4
+19,"Martin, Sam",DET,@MIN,P,4.3,189.4,13.2,1.4,13.2
+20,"Jones, Chris",DAL,TEN,P,3.9,175.9,7.2,1.9,13.1
+21,"Colquitt, Britton",CLE,KCC,P,4.1,189.8,20.8,1.2,12.6
+22,"Allen, Ryan",NEP,GBP,P,3.9,168.,6.1,1.5,12.1
+23,"Berry, Jordan",PIT,@BAL,P,3.8,164.7,11.,1.4,11.7
+24,"Scott, J.K.",GBP,@NEP,P,3.9,170.,10.7,1.1,11.4
+25,"Bosher, Matt",ATL,@WAS,P,3.4,152.9,12.,1.4,11.1
+26,"Morstead, Thomas",NOR,LAR,P,3.,142.,11.2,1.2,10.

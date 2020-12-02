@@ -1,0 +1,33 @@
+Player,Team,Sack,Int,Fum Rec,Fum Forced,TDs,Safety,PA,Yds Against,FPoints
+Arizona Cardinals,Cardinals,39.1,12.2,10.1,15.5,2.5,,391.6,"5,837.6",98.8
+Jacksonville Jaguars,Jaguars,37.8,12.0,8.6,13.2,2.8,,417.9,"5,831.6",95.6
+Tennessee Titans,Titans,39.6,13.1,6.9,10.6,2.4,,326.8,"5,687.9",94.0
+Detroit Lions,Lions,38.4,12.4,10.1,15.5,3.2,,352.8,"5,734.9",102.4
+New England Patriots,Patriots,38.9,13.8,8.0,12.3,2.6,,327.2,"5,447.7",97.9
+Dallas Cowboys,Cowboys,41.7,13.3,8.9,13.7,2.6,,344.7,"5,599.2",101.8
+Las Vegas Raiders,Raiders,37.2,13.3,8.3,12.8,2.5,,371.7,"5,832.9",95.4
+Tampa Bay Buccaneers,Buccaneers,40.5,12.6,12.3,18.9,2.7,,349.2,"5,602.6",106.7
+Los Angeles Rams,Rams,40.6,12.5,8.6,13.2,2.5,,366.8,"5,655.3",97.8
+Chicago Bears,Bears,38.0,10.6,10.9,16.8,2.8,,340.8,"5,459.8",98.0
+Buffalo Bills,Bills,40.6,13.0,11.5,17.7,2.8,,305.1,"5,380.8",106.5
+Carolina Panthers,Panthers,36.7,10.8,7.4,11.4,2.6,,426.9,"6,027.4",88.3
+Atlanta Falcons,Falcons,36.6,10.7,8.9,13.6,2.6,,381.1,"5,928.6",91.0
+Cleveland Browns,Browns,39.8,12.8,8.9,13.7,2.5,,348.9,"5,726.8",98.0
+Washington Football Team,Team,35.3,11.7,9.1,14.0,2.8,,386.2,"5,876.9",93.8
+Los Angeles Chargers,Chargers,36.4,11.1,6.8,10.4,2.9,,329.0,"5,554.1",89.1
+Baltimore Ravens,Ravens,41.4,14.3,9.6,14.8,2.5,,326.7,"5,498.1",104.3
+Minnesota Vikings,Vikings,38.2,12.7,12.5,19.3,2.5,,326.1,"5,667.2",103.9
+Indianapolis Colts,Colts,41.7,11.3,9.8,15.1,2.6,,322.7,"5,414.4",99.3
+New York Jets,Jets,37.6,12.3,8.1,12.4,2.5,,395.4,"5,680.6",93.1
+Kansas City Chiefs,Chiefs,41.5,12.2,8.6,13.2,2.8,,361.8,"5,744.4",100.1
+Miami Dolphins,Dolphins,36.9,12.1,9.4,14.5,3.0,,369.0,"5,701.4",97.8
+Seattle Seahawks,Seahawks,40.8,13.5,10.4,16.0,2.7,,338.6,"5,728.9",104.6
+Denver Broncos,Broncos,36.5,12.8,8.7,13.4,2.5,,337.9,"5,600.0",94.3
+Cincinnati Bengals,Bengals,37.6,12.3,8.1,12.5,2.8,,365.6,"5,665.1",95.0
+New York Giants,Giants,37.6,12.2,8.4,12.9,2.5,,393.0,"5,964.1",93.9
+Green Bay Packers,Packers,38.0,12.1,7.7,11.8,2.4,,359.6,"5,830.1",91.9
+New Orleans Saints,Saints,41.5,13.4,9.4,14.5,2.7,,336.3,"5,602.3",103.5
+Houston Texans,Texans,38.2,11.9,10.6,16.3,2.4,,379.0,"5,740.0",97.8
+Philadelphia Eagles,Eagles,40.7,13.5,10.3,15.9,2.5,,361.1,"5,715.5",103.3
+Pittsburgh Steelers,Steelers,42.0,12.9,11.6,17.8,3.0,,302.4,"5,533.6",108.6
+San Francisco 49ers,49ers,42.5,12.8,12.5,19.3,2.7,,317.5,"5,573.5",109.3

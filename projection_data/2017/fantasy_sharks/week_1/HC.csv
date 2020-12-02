@@ -1,0 +1,28 @@
+Rank,Player,Team,Opp,Position,GAMES_WON,GAMES_LOST,POINTS_SCORED,POINTS_DIFF,Pts
+1,"Pagano, Chuck",IND,@LAR,HC,1.,0.,31.,21.,25.8
+2,"Quinn, Dan",ATL,@CHI,HC,1.,0.,35.,13.,25.4
+3,"Belichick, Bill",NEP,KCC,HC,1.,0.,35.,12.,25.1
+4,"Tomlin, Mike",PIT,@CLE,HC,1.,0.,30.,20.,25.
+5,"Rivera, Ron",CAR,@SFO,HC,1.,0.,27.,9.,20.2
+6,"Gruden, Jay",WAS,PHI,HC,1.,0.,26.,5.,18.5
+7,"Lewis, Marvin",CIN,BAL,HC,1.,0.,24.,8.,18.4
+8,"Zimmer, Mike",MIN,NOR,HC,1.,0.,28.,1.,18.3
+9,"Koetter, Dirk",TBB,Bye,HC,1.,0.,24.,7.,18.1
+10,"Caldwell, Jim",DET,ARZ,HC,1.,0.,25.,1.,16.8
+11,"Bowles, Todd",NYJ,@BUF,HC,1.,0.,24.,1.,16.3
+12,"Del Rio, Jack",OAK,@TEN,HC,1.,0.,23.,2.,16.1
+13,"Garrett, Jason",DAL,NYG,HC,1.,0.,21.,1.,14.8
+14,"O'Brien, Bill",HOU,JAC,HC,1.,0.,20.,1.,14.3
+15,"McCarthy, Mike",GBP,SEA,HC,0.,1.,24.,-1.,11.7
+16,"Arians, Bruce",ARZ,@DET,HC,0.,1.,24.,-3.,11.1
+17,"Payton, Sean",NOR,@MIN,HC,0.,1.,24.,-4.,10.8
+18,"Carroll, Pete",SEA,@GBP,HC,0.,1.,23.,-4.,10.3
+19,"Mularkey, Mike",TEN,OAK,HC,0.,1.,21.,-2.,9.9
+20,"McAdoo, Ben",NYG,@DAL,HC,0.,1.,20.,-1.,9.7
+21,"Campbell, Dan",MIA,Bye,HC,0.,1.,21.,-3.,9.6
+22,"Pederson, Doug",PHI,@WAS,HC,0.,1.,21.,-3.,9.6
+23,"Jackson, Hue",CLE,PIT,HC,0.,1.,23.,-7.,9.4
+24,"McVay, Sean",LAR,IND,HC,0.,1.,21.,-10.,7.5
+25,"Harbaugh, John",BAL,@CIN,HC,0.,1.,16.,-10.,5.
+26,"Fox, John",CHI,ATL,HC,0.,1.,18.,-17.,3.9
+27,"Reid, Andy",KCC,@NEP,HC,0.,1.,14.,-21.,0.7

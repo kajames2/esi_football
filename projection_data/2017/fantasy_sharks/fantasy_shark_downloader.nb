@@ -1,0 +1,209 @@
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[         0,          0]
+NotebookDataLength[      8506,        208]
+NotebookOptionsPosition[      7886,        181]
+NotebookOutlinePosition[      8220,        196]
+CellTagsIndexPosition[      8177,        193]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"positionIds", "=", 
+   RowBox[{"<|", 
+    RowBox[{
+     RowBox[{"\"\<qb\>\"", "\[Rule]", "\"\<1\>\""}], ",", 
+     RowBox[{"\"\<rb\>\"", "\[Rule]", "\"\<2\>\""}], ",", 
+     RowBox[{"\"\<wr\>\"", "\[Rule]", "\"\<4\>\""}], ",", 
+     RowBox[{"\"\<te\>\"", "\[Rule]", "\"\<5\>\""}], ",", 
+     RowBox[{"\"\<k\>\"", "\[Rule]", "\"\<7\>\""}], ",", 
+     RowBox[{"\"\<lb\>\"", "\[Rule]", "\"\<9\>\""}], ",", 
+     RowBox[{"\"\<dst\>\"", "\[Rule]", "\"\<6\>\""}], ",", 
+     RowBox[{"\"\<p\>\"", "\[Rule]", "\"\<15\>\""}], ",", 
+     RowBox[{"\"\<hc\>\"", "\[Rule]", "\"\<29\>\""}], ",", 
+     RowBox[{"\"\<db\>\"", "\[Rule]", "\"\<10\>\""}], ",", 
+     RowBox[{"\"\<dl\>\"", "\[Rule]", "\"\<8\>\""}]}], "|>"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"baseSegment", "=", "595"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"nWeeks", "=", "17"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.64839954966892*^9, 3.6483995682462378`*^9}, {
+   3.648399602484528*^9, 3.64839960702852*^9}, {3.648399689812187*^9, 
+   3.648399727955677*^9}, {3.648399765987441*^9, 3.6483998250908833`*^9}, {
+   3.648399864530349*^9, 3.648399886049973*^9}, {3.648399983713148*^9, 
+   3.648399985617312*^9}, {3.648400517232525*^9, 3.6484005175365963`*^9}, {
+   3.648400558993101*^9, 3.6484005828010798`*^9}, {3.680911682675455*^9, 
+   3.680911684700293*^9}, {3.7114783486095343`*^9, 3.711478374752882*^9}, 
+   3.7123517325736322`*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Do", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"If", "[", 
+      RowBox[{
+       RowBox[{"!", 
+        RowBox[{"DirectoryQ", "[", 
+         RowBox[{
+          RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<week_\>\"", "<>", 
+          RowBox[{"ToString", "@", "week"}]}], "]"}]}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"CreateDirectory", "[", 
+        RowBox[{
+         RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<week_\>\"", "<>", 
+         RowBox[{"ToString", "@", "week"}]}], "]"}]}], "\[IndentingNewLine]", 
+      "]"}], ";", "\[IndentingNewLine]", 
+     RowBox[{"Block", "[", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"data", ",", 
+         RowBox[{"segment", "=", 
+          RowBox[{"ToString", "[", 
+           RowBox[{"baseSegment", "+", "week"}], "]"}]}]}], "}"}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"data", "=", 
+         RowBox[{"Import", "[", 
+          RowBox[{
+          "\"\<http://www.fantasysharks.com/apps/bert/forecasts/projections.\
+php?csv=1&Sort=&Segment=\>\"", "<>", "segment", "<>", "\"\<&Position=\>\"", "<>", 
+           RowBox[{"positionIds", "[", "pos", "]"}], "<>", 
+           "\"\<&scoring=1&League=&uid=4&uid2=&printable=\>\""}], "]"}]}], 
+        ";", "\[IndentingNewLine]", 
+        RowBox[{"Export", "[", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<week_\>\"", "<>", 
+           RowBox[{"ToString", "@", "week"}], "<>", "$PathnameSeparator", "<>", 
+           RowBox[{"ToUpperCase", "[", "pos", "]"}], "<>", "\"\<.csv\>\""}], 
+          ",", "data"}], "]"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";"}], 
+    "\[IndentingNewLine]", ",", 
+    RowBox[{"{", 
+     RowBox[{"week", ",", "nWeeks"}], "}"}], "\[IndentingNewLine]", ",", 
+    RowBox[{"{", 
+     RowBox[{"pos", ",", 
+      RowBox[{"Keys", "[", "positionIds", "]"}]}], "}"}]}], 
+   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.648400005652679*^9, 3.6484000145787163`*^9}, {
+   3.6484001521206913`*^9, 3.648400256427724*^9}, {3.6484002922050953`*^9, 
+   3.6484003707029247`*^9}, {3.648400435887763*^9, 3.6484005548494387`*^9}, 
+   3.648400591393662*^9, {3.6484006932821093`*^9, 3.6484007006745663`*^9}, 
+   3.6484008925142717`*^9, 3.648858163382625*^9, {3.712344569052223*^9, 
+   3.7123445730516787`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Dynamic", "[", 
+  RowBox[{"{", 
+   RowBox[{"week", ",", "pos"}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.680910047004702*^9, 3.6809100511113853`*^9}}],
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[{$CellContext`week, $CellContext`pos}, StandardForm],
+  ImageSizeCache->{82., {3., 11.}}]], "Output",
+ CellChangeTimes->{3.680910053874093*^9, 3.680911695250098*^9}]
+}, Open  ]],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"positionIds", "=", 
+   RowBox[{"<|", 
+    RowBox[{
+     RowBox[{"\"\<qb\>\"", "\[Rule]", "\"\<1\>\""}], ",", 
+     RowBox[{"\"\<rb\>\"", "\[Rule]", "\"\<2\>\""}], ",", 
+     RowBox[{"\"\<wr\>\"", "\[Rule]", "\"\<4\>\""}], ",", 
+     RowBox[{"\"\<te\>\"", "\[Rule]", "\"\<5\>\""}], ",", 
+     RowBox[{"\"\<k\>\"", "\[Rule]", "\"\<7\>\""}], ",", 
+     RowBox[{"\"\<lb\>\"", "\[Rule]", "\"\<9\>\""}], ",", 
+     RowBox[{"\"\<dst\>\"", "\[Rule]", "\"\<6\>\""}], ",", 
+     RowBox[{"\"\<p\>\"", "\[Rule]", "\"\<15\>\""}], ",", 
+     RowBox[{"\"\<hc\>\"", "\[Rule]", "\"\<29\>\""}], ",", 
+     RowBox[{"\"\<db\>\"", "\[Rule]", "\"\<10\>\""}], ",", 
+     RowBox[{"\"\<dl\>\"", "\[Rule]", "\"\<8\>\""}]}], "|>"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"baseSegment", "=", "589"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.64839954966892*^9, 3.6483995682462378`*^9}, {
+  3.648399602484528*^9, 3.64839960702852*^9}, {3.648399689812187*^9, 
+  3.648399727955677*^9}, {3.648399765987441*^9, 3.6483998250908833`*^9}, {
+  3.648399864530349*^9, 3.648399886049973*^9}, {3.648399983713148*^9, 
+  3.648399985617312*^9}, {3.648400517232525*^9, 3.6484005175365963`*^9}, {
+  3.648400558993101*^9, 3.6484005828010798`*^9}, {3.680911682675455*^9, 
+  3.680911684700293*^9}, {3.7114783486095343`*^9, 3.711478374752882*^9}, {
+  3.7121924489073825`*^9, 3.7121924522439785`*^9}, {3.7121930213766747`*^9, 
+  3.712193038792113*^9}, {3.7121977755815244`*^9, 3.7121977764527225`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Do", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Block", "[", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"data", ",", 
+         RowBox[{"segment", "=", 
+          RowBox[{"ToString", "[", "baseSegment", "]"}]}]}], "}"}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"data", "=", 
+         RowBox[{"Import", "[", 
+          RowBox[{
+          "\"\<http://www.fantasysharks.com/apps/bert/forecasts/projections.\
+php?csv=1&Sort=&Segment=\>\"", "<>", "segment", "<>", "\"\<&Position=\>\"", "<>", 
+           RowBox[{"positionIds", "[", "pos", "]"}], "<>", 
+           "\"\<&scoring=1&League=&uid=4&uid2=&printable=\>\""}], "]"}]}], 
+        ";", "\[IndentingNewLine]", 
+        RowBox[{"Export", "[", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"NotebookDirectory", "[", "]"}], "<>", 
+           RowBox[{"ToUpperCase", "[", "pos", "]"}], "<>", "\"\<.csv\>\""}], 
+          ",", "data"}], "]"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";"}], 
+    "\[IndentingNewLine]", ",", 
+    RowBox[{"{", 
+     RowBox[{"pos", ",", 
+      RowBox[{"Keys", "[", "positionIds", "]"}]}], "}"}]}], 
+   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.648400005652679*^9, 3.6484000145787163`*^9}, {
+   3.6484001521206913`*^9, 3.648400256427724*^9}, {3.6484002922050953`*^9, 
+   3.6484003707029247`*^9}, {3.648400435887763*^9, 3.6484005548494387`*^9}, 
+   3.648400591393662*^9, {3.6484006932821093`*^9, 3.6484007006745663`*^9}, 
+   3.6484008925142717`*^9, 3.648858163382625*^9, {3.7121924569721093`*^9, 
+   3.7121924806995907`*^9}, {3.7121930260732317`*^9, 3.7121930290084066`*^9}}]
+},
+WindowSize->{1918, 1053},
+WindowMargins->{{1, Automatic}, {Automatic, 1}},
+FrontEndVersion->"11.0 for Linux x86 (64-bit) (July 28, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[400, 13, 1458, 28, 71, "Input"],
+Cell[1861, 43, 2409, 54, 272, "Input"],
+Cell[CellGroupData[{
+Cell[4295, 101, 180, 4, 32, "Input"],
+Cell[4478, 107, 199, 3, 32, "Output"]
+}, Open  ]],
+Cell[4692, 113, 1504, 27, 52, "Input"],
+Cell[6199, 142, 1683, 37, 179, "Input"]
+}
+]
+*)
+
