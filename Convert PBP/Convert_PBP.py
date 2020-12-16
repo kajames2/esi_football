@@ -19,8 +19,7 @@ def getSeason(dfObj, value):
     # Return a list of tuples iicating the positions of value in the dataframe
     return list_rows
 
-def getGame (dfObj, value, game):
-    
+def gameIndices(dfObj, game):
     i=len(dfObj)/10
     index=0
     gameFound=False
@@ -55,7 +54,23 @@ def getGame (dfObj, value, game):
             gameEnd=True
     gameEnd=index
     
-    dfObj=dfObj[gameStart:gameEnd]
+    return dfObj[gameStart:gameEnd]
+   
+def getPlayers(dfObj,game): 
+    columns=['bc','rtck1','rtck2']
+    listplayers=dict()
+    for col in columns:
+        listplayers[col]=[]
+    dfObj = gameIndices(dfObj,game)
+    for row in range(len(dfObj)):
+        for col in columns:
+            if not pd.isna(dfObj[col][row]):
+                listplayers[col].append(dfObj[col][row])
+    return listplayers
+
+def getGame (dfObj, value, game):
+    dfObj = gameIndices(dfObj,game)
+
     list_rows=list()
     result = dfObj.isin([value])
     # Get list of columns that contains the value
@@ -83,11 +98,9 @@ def getTackles (dfObj, rows, player):
             count.append(1)
             if not pd.isna(dfObj['rtck2'][row]):
                 count[-1]=.5
+    return count
 
 
-print(len(plays))
-#getGame(plays,1)
 
 list_rows=getGame(plays,'CG-0400',1)
-print(list_rows)
-print(sum(getYards(plays,list_rows,'yds')))
+print(sum(getYards(plays,list_rows)))
