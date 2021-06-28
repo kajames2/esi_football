@@ -13,4 +13,4 @@ Uses data from two sources requiring paid accounts: ArmChairAnalysis.com and pff
 - Format projections into intermediary format
 - Use AA data for players.csv
 - Write algorithm to match projections with PlayerID
-- 
+- Covert AA PBP data into historical data by game each season.
