@@ -14,3 +14,4 @@ Uses data from two sources requiring paid accounts: ArmChairAnalysis.com and pff
 - Use AA data for players.csv
 - Write algorithm to match projections with PlayerID
 - Covert AA PBP data into historical data by game each season.
+  - Include the position and team of the player each week.
