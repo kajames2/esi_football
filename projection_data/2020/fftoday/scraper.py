@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
 Created on Thu Sep 10 19:33:26 2020
-
+MUST BE EDITED TO DIFFERNTIATE ATTEMPTS YARDS AND TDS BETWEEN OFFENSIVE PLAYERS
 @author: Jacob Cohn
 '''
 
