@@ -1,4 +1,4 @@
-Player,Team,Bye,Rec,Yard,TD,Att,Yard,TD,FPts
+Player,Team,Bye,Rec,RecYard,RecTD,RushAtt,RushYard,RushTD,FPts
 Michael Thomas,NO,6,130,"1,558",8,0,0,0,203.8
 Davante Adams,GB,5,100,"1,282",11,0,0,0,194.2
 Julio Jones,ATL,10,98,"1,421",7,0,0,0,184.1
