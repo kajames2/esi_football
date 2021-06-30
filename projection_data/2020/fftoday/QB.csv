@@ -1,4 +1,4 @@
-Player,Team,Bye,Comp,Att,Yard,TD,INT,Att,Yard,TD,FPts
+Player,Team,Bye,Comp,PassAtt,PassYard,PassTD,INT,RushAtt,RushYard,RushTD,FPts
 Lamar Jackson,BAL,7,282,440,"3,255",30,12,165,988,6,417.6
 Patrick Mahomes,KC,10,373,566,"4,582",34,9,56,229,2,400.0
 Dak Prescott,DAL,10,387,596,"4,530",28,12,71,304,4,392.9
