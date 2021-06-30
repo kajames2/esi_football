@@ -1,4 +1,4 @@
-Player,Team,Bye,Att,Yard,TD,Rec,Yard,TD,FPts
+Player,Team,Bye,RushAtt,RushYard,RushTD,Rec,RecYard,RecTD,FPts
 Christian McCaffrey,CAR,13,242,"1,161",10,107,884,4,288.5
 Dalvin Cook,MIN,7,246,"1,180",11,63,551,2,251.1
 Saquon Barkley,NYG,11,268,"1,260",10,64,517,2,249.7
